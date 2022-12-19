@@ -1,8 +1,8 @@
 <template>
   <div>
-    <img :src="`~/assets/${something}.svg`" />
+    <img :src="`~/assets/${someref}.svg`" />
   </div>
 </template>
 <script setup>
-const something = ref('something');
+const somref = ref('something');
 </script>
