@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img :src="`~~/assets/${something}.svg`" />
+    <img :src="`~/assets/${something}.svg`" />
   </div>
 </template>
 <script setup>
